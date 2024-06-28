@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farah Razi - Strategist, Entrepreneur, and Lawyer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            font-size: 1.2em;
+            color: #777;
+        }
+        section {
+            margin: 20px 0;
+        }
+        section h2 {
+            margin-bottom: 10px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        section p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #333;
+            color: #fff;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Farah Razi</h1>
+            <p>Strategist, Entrepreneur, and Lawyer</p>
+        </header>
+        <section>
+            <h2>About Me</h2>
+            <p>From Tehran to Hamburg to Toronto to Calgary, I am a strategist, entrepreneur, and lawyer with a dynamic career spanning diverse sectors, drawing excitement from changing environments and surprises. My diverse academic and professional background in art, law, political science, and social sciences equips me to contribute meaningfully to any organization.</p>
+        </section>
+        <section>
+            <h2>Current Focus</h2>
+            <p>Currently, I am focused on sourcing environmentally sustainable products for a company in the UAE. The UAE offers incentives for immigration business purposes to start-ups that provide ecologically sustainable alternatives to single-use plastics. Our goal is to help innovative companies introduce their sustainable products to the UAE and the region through our established network and expertise as local agents.</p>
+        </section>
+        <section>
+            <h2>Professional Experience</h2>
+            <p>Previously, I founded Razi Law, specializing in property division, divorce, and family law. As an Associate, I provided insightful guidance with practical and focused end-driven advice, fostering inclusive environments where individuals thrive, feel valued, and express their authentic selves. I am recognized for my ability to turn challenges into opportunities with a creative, strategic, and practical approach. My legal expertise includes Indigenous Residential School claims, Criminal Law, Wills and Estates, Immigration, Residential Tenancy Law, and Family Law.</p>
+        </section>
+        <section>
+            <h2>Language and Cultural Skills</h2>
+            <p>Fluent in German and Farsi, I am passionate about facilitating professional connections across diverse backgrounds in Canada, Germany, UAE, and Iran. Through mentorship programs and safe space initiatives, I aim to support the well-being and academic success of a diverse student body. I am committed to creating safe and inclusive spaces where students feel valued and empowered.</p>
+        </section>
+        <section>
+            <h2>Academic Achievements</h2>
+            <p>My academic achievements include an LL.B and M.A. from the University of Calgary, and an Honours Specialization Bachelor's degree in International Relations with a focus on the sanctions regime in Iraq. As a researcher with a record of published works, I am eager to engage in interdisciplinary research projects and support grant-writing efforts to advance organizational goals. I bring a unique blend of experiences, having appeared on stage as a classical ballet dancer with companies such as the Hamburg Ballet, the National Ballet of Canada, and the Alberta Ballet.</p>
+        </section>
+        <section>
+            <h2>Connect with Me</h2>
+            <p>#SustainablePackaging #FemaleLead #Immigration #LanguageEducation #LegalCoaching #Resilience #Empathy #UnwaveringDedication #NationalBalletofCanada #ArtsCommons #AlbertaFoundationForTheArts #UNEP #WorldEconomicForum #Greenpeace #InternationalTradeCentre #IvySchoolOfBusiness #StanfordGSB</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Farah Razi. All rights reserved.</p>
+    </footer>
+</body>
+</html>
